@@ -41,6 +41,19 @@ Team Member 1:
 _Include a comprehensive summary of all important information about your project solution here._
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 
+#### Breakdown of project objectives:
+  1) Familiarize with Pennylane
+     - "Introduction to Quantum Computing"
+       - Did Codexercises on 19.07.2024 (file: "./step1/Pennlane_Introduction_to_Quantum_Computing.png")
+     - "Single-Qubit Gates"
+       - Did Codeexercises on 19.07.2024 (file: "./step1/Pennylane_Single-Qubit-Gates.png")
+     - "Circuits with Many Qubits"
+       - Did Codeexercises on 19.07.2024 (file: "./step1/Pennylane_Circutis_with_many_qubits.png")
+  2) Basisc Workflow (Variational Classifier)
+  3) Quanvolutional
+  4) Learn sine-function
+  5) QML for real data set
+
 ### Project Presentation Deck:
 _Link a 5min. presentation recording or deck here._
 
