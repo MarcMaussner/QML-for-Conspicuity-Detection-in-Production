@@ -49,7 +49,8 @@ All necessary code files and any additional information required to judge your p
        - Did Codeexercises on 19.07.2024 (file: "./step1/Pennylane_Single-Qubit-Gates.png")
      - "Circuits with Many Qubits"
        - Did Codeexercises on 19.07.2024 (file: "./step1/Pennylane_Circutis_with_many_qubits.png")
-  2) Basisc Workflow (Variational Classifier)
+  2) Basic Workflow (Variational Classifier)
+     - did step 2 on 01.08.2024 (file."./step2/Step2_Variational_Classifier.ipynb")
   3) Quanvolutional
   4) Learn sine-function
   5) QML for real data set
