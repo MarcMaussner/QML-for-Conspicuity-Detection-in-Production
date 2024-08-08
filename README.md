@@ -52,10 +52,11 @@ All necessary code files and any additional information required to judge your p
   2) Basic Workflow (Variational Classifier)
      - did step 2 on 01.08.2024 (file: "./step2/Step2_Variational_Classifier.ipynb")
   3) Quanvolutional
-  4) Learn sine-function
+     - did step 3 on 08.08.2024 (file: ".step3/Step3_QNN.ipynb")
+  5) Learn sine-function
      - did step 4 on 01.08.2024 (file: "./step4/Step4_Learn_Sine.ipynb")
   6) QML for real data set
 
 ### Project Presentation Deck:
-_Link a 5min. presentation recording or deck here._
+You can find the pitch deck here: "./pitch_deck/20240808MMs(QML_Project_Womanium).pptx"
 
